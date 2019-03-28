@@ -6,7 +6,8 @@ to the popular MNIST. This dataset is duplicated in relation to MNIST
 and switcihg architecture to DoubledMNIST should be real check
 of knowledge in machine learning tasks. Couse of really good data
 preparation and dimensions of dataset, with good architecture we
-expect that precision should be close 1. \\\
+expect that precision should be close 1. 
+
 Its dimensions: 140 000 images, resolution 56x56 of each.
 Read the one page paper for detailed description.
 
