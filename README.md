@@ -13,6 +13,11 @@ Read the one page paper for detailed description.
 
 Link to download dataset: [.zip Link](https://drive.google.com/open?id=1LGcnj_bMFqRIwc89D0USb9PANuNdkgAf) (217MB).
 
+Notbook DoubledMNIST.ipynb contains source code of dataset creation.
+Notebook LoadUtil_DoubledMNIST.ipynb contaions util function to unziping dataset to your project and create train and test set of images.
+Folder /paper contain one page descritpition of dataset.
+
+
 # Literature:
 *   [Nist 19 Official database](https://www.nist.gov/srd/nist-special-database-19)
 *   [Official NIST paper, database description](https://s3.amazonaws.com/nist-srd/SD19/sd19_users_guide_edition_2.pdf)
