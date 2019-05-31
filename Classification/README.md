@@ -3,3 +3,5 @@ Added Jpyther notebook which tested classificators:
 * Support Vector Machine
 * Decision Tree
 * Deep Neural Network
+
+This folder contains appropriate images and .csv files
