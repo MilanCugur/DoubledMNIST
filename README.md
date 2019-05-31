@@ -13,11 +13,13 @@ Read the one page paper for detailed description.
 
 Link to download dataset: [.zip Link](https://drive.google.com/open?id=1LGcnj_bMFqRIwc89D0USb9PANuNdkgAf) (217MB).
 
-Notbook **DoubledMNIST.ipynb** contains source code of dataset creation.
-
-Notebook **LoadUtil_DoubledMNIST.ipynb** contaions util function to unziping dataset to your project and create train and test set of images.
-
 Folder **/paper** contain one page descritpition of dataset.
+
+Folder **/src** contains source code for creating dataset and performing appropriate classification tasks on it.
+
+Folder **/Classification** contains images that came from classification tasks.
+
+Folder **/ConfusionMatrix** contains appropriate confusion matrix for tested models in .csv and .npz format
 
 
 # Literature:
